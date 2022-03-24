@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicoleshaker
-- 👀 I’m interested in front-end development and web design. 
-- 🌱 I am primarly a Python, Java, and C++ coder. 
-- 💞️ I’m currently learning HTML, CSS, JavaScript, as well as software engineering stratgies and methodologies.  
+- 👀 I’m interested in front-end development and web design, but I am still exploring all areas of programming. 
+- 🌱 I am primarly a Python, Java, and C++ coder. I also have ample experience with HTML, CSS, and JavaScript.  
+- 💞️ I’m currently studying software engineering strategies and methodologies.  
 - 📫 How to reach me: nicoleshaker@icloud.com
 
 <!---
